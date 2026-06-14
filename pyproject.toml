@@ -1,0 +1,80 @@
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "abide_ml_comparison"
+version = "1.0"
+authors = [
+    { name = "Madeleine Huebner", email = "madeleine.huebner.2022@live.rhul.ac.uk" }
+]
+requires-python = "~=3.12"
+readme = "README.md"
+dependencies = [
+    "boto3==1.40.54",
+    "build == 1.4.0",
+    "fsspec==2026.1.0",
+    "ipywidgets==8.1.7",
+    "ipykernel==6.17.1",
+    "joblib==1.5.2",
+    "jupyterlab==4.5.6",
+    "matplotlib==3.10.6",
+    "neuroCombat==0.2.12",
+    "nibabel==5.3.2",
+    "nilearn==0.12.1",
+    "numpy==2.0.2",
+    "optuna==4.7.0",
+    "pandas==2.3.3",
+    "plotly==6.5.0",
+    "pytest-cov==7.0.0",
+    "pytest==9.0.2",
+    "pyyaml==6.0.3",
+    "requests==2.32.5",
+    "scikit-learn==1.7.2",
+    "scipy==1.17.1",
+    "seaborn==0.13.2",
+    "shap==0.51.0",
+    "torch-cluster==1.6.3",
+    "torch-geometric==2.6.1",
+    "torch==2.9.0",
+    "torchmetrics==1.8.2",
+    "torchvision==0.24.0",
+    "tqdm==4.67.3",
+    "typing-extensions==4.15.0",
+    "xgboost==3.1.1",
+]
+
+[tool.setuptools.packages.find]
+where = ["product/src"]
+
+[tool.pytest.ini_options]
+testpaths = ["product/tests"]
+pythonpath = ["product/src"]
+addopts = [
+    "-ra",
+    "--verbose",
+    "--cov=product/src",
+    "--cov=product/scripts", 
+    "--cov-report=term-missing",
+]
+
+[tool.coverage.run]
+omit = [
+    "*/tests/*",
+    "*/test_*.py",
+    "*/__init__.py",
+    "*/conftest.py",
+    "product/src/autoencoder/*",
+    "product/src/gcn/*",
+    "product/src/evaluation/validation.py",
+    "product/scripts/01_download_phenotypic_file.py",
+    "product/src/preprocessing/visualisation.py",
+    "product/src/utils/*"
+]
+source = ["product/src", "product/scripts"]
+
+[tool.coverage.report]
+exclude_lines = [
+    "pragma: no cover",
+    "if __name__ == .__main__.:",
+]

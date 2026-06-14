@@ -1,0 +1,111 @@
+ANATOMICAL DESCRIPTION,LABEL,NOTATION,ABBREVIATION,NETWORK
+Left Amygdala,Amygdala_L,L. Amygdala,AMYG_L,Salience
+Right Amygdala,Amygdala_R,R. Amygdala,AMYG_R,Salience
+Left Angular Gyrus,Angular_L,L. Angular,ANG_L,DMN
+Right Angular Gyrus,Angular_R,R. Angular,ANG_R,DMN
+Left Calcarine Fissure And Surrounding Cortex,Calcarine_L,L. Calcarine,CAL_L,Visual
+Right Calcarine Fissure And Surrounding Cortex,Calcarine_R,R. Calcarine,CAL_R,Visual
+Left Caudate Nucleus,Caudate_L,L. Caudate,CAU_L,Subcortical
+Right Caudate Nucleus,Caudate_R,R. Caudate,CAU_R,Subcortical
+Left Lobule III Of Cerebellar Hemisphere,Cerebelum_3_L,L. Cerebellum (3),CER3_L,Cerebellar
+Right Lobule III Of Cerebellar Hemisphere,Cerebelum_3_R,R. Cerebellum (3),CER3_R,Cerebellar
+Left Lobule IV V Of Cerebellar Hemisphere,Cerebelum_4_5_L,L. Cerebellum (4 5),CER4_5_L,Cerebellar
+Right Lobule IV V Of Cerebellar Hemisphere,Cerebelum_4_5_R,R. Cerebellum (4 5),CER4_5_R,Cerebellar
+Left Lobule VI Of Cerebellar Hemisphere,Cerebelum_6_L,L. Cerebellum (6),CER6_L,Cerebellar
+Right Lobule VI Of Cerebellar Hemisphere,Cerebelum_6_R,R. Cerebellum (6),CER6_R,Cerebellar
+Left Lobule VIII Of Cerebellar Hemisphere,Cerebelum_8_L,L. Cerebellum (8),CER8_L,Cerebellar
+Right Lobule VIII Of Cerebellar Hemisphere,Cerebelum_8_R,R. Cerebellum (8),CER8_R,Cerebellar
+Left Lobule IX Of Cerebellar Hemisphere,Cerebelum_9_L,L. Cerebellum (9),CER9_L,Cerebellar
+Right Lobule IX Of Cerebellar Hemisphere,Cerebelum_9_R,R. Cerebellum (9),CER9_R,Cerebellar
+Left Crus I Of Cerebellar Hemisphere,Cerebelum_Crus1_L,L. Cerebellum (Crus 1),CERCRU1_L,Cerebellar
+Right Crus I Of Cerebellar Hemisphere,Cerebelum_Crus1_R,R. Cerebellum (Crus 1),CERCRU1_R,Cerebellar
+Left Crus II Of Cerebellar Hemisphere,Cerebelum_Crus2_L,L. Cerebellum (Crus 2),CERCRU2_L,Cerebellar
+Right Crus II Of Cerebellar Hemisphere,Cerebelum_Crus2_R,R. Cerebellum (Crus 2),CERCRU2_R,Cerebellar
+Left Anterior Cingulate And Paracingulate Gyri,Cingulum_Ant_L,L. Cingulate Ant.,ACC_L,Salience
+Right Anterior Cingulate And Paracingulate Gyri,Cingulum_Ant_R,R. Cingulate Ant.,ACC_R,Salience
+Left Middle Cingulate And Paracingulate Gyri,Cingulum_Mid_L,L. Cingulate Mid.,MCC_L,Salience
+Right Middle Cingulate And Paracingulate Gyri,Cingulum_Mid_R,R. Cingulate Mid.,MCC_R,Salience
+Left Posterior Cingulate Gyrus,Cingulum_Post_L,L. Cingulate Post.,PCC_L,DMN
+Right Posterior Cingulate Gyrus,Cingulum_Post_R,R. Cingulate Post.,PCC_R,DMN
+Left Cuneus,Cuneus_L,L. Cuneus,CUN_L,Visual
+Right Cuneus,Cuneus_R,R. Cuneus,CUN_R,Visual
+Left Inferior Frontal Gyrus Opercular Part,Frontal_Inf_Oper_L,L. Frontal Inf. (Oper),IFGoperc_L,Salience
+Right Inferior Frontal Gyrus Opercular Part,Frontal_Inf_Oper_R,R. Frontal Inf. (Oper),IFGoperc_R,Salience
+Left Inferior Frontal Gyrus Orbital Part,Frontal_Inf_Orb_L,L. Frontal Inf. (Orb),IFGorb_L,Salience
+Right Inferior Frontal Gyrus Orbital Part,Frontal_Inf_Orb_R,R. Frontal Inf. (Orb),IFGorb_R,Salience
+Left Inferior Frontal Gyrus Triangular Part,Frontal_Inf_Tri_L,L. Frontal Inf. (Tri),IFGtriang_L,Executive Control
+Right Inferior Frontal Gyrus Triangular Part,Frontal_Inf_Tri_R,R. Frontal Inf. (Tri),IFGtriang_R,Executive Control
+Left Superior Frontal Gyrus Medial Orbital,Frontal_Med_Orb_L,L. Frontal Med (Orb),PFCventmed_L,DMN
+Right Superior Frontal Gyrus Medial Orbital,Frontal_Med_Orb_R,R. Frontal Med (Orb),PFCventmed_R,DMN
+Left Middle Frontal Gyrus,Frontal_Mid_L,L. Frontal Mid.,MFG_L,Executive Control
+Left Middle Frontal Gyrus Orbital Part,Frontal_Mid_Orb_L,L. Frontal Mid. (Orb),MFGorb_L,Executive Control
+Right Middle Frontal Gyrus Orbital Part,Frontal_Mid_Orb_R,R. Frontal Mid. (Orb),MFGorb_R,Executive Control
+Right Middle Frontal Gyrus,Frontal_Mid_R,R. Frontal Mid.,MFG_R,Executive Control
+Left Superior Frontal Gyrus Dorsolateral,Frontal_Sup_L,L. Frontal Sup.,SFG_L,Executive Control
+Left Superior Frontal Gyrus Medial Part,Frontal_Sup_Medial_L,L. Frontal Sup. (Medial),SFGmedial_L,DMN
+Right Superior Frontal Gyrus Medial Part,Frontal_Sup_Medial_R,R. Frontal Sup. (Medial),SFGmedial_R,DMN
+Right Superior Frontal Gyrus Orbital Part,Frontal_Sup_Orb_R,R. Frontal Sup. (Orb),ORBsup_R,Executive Control
+Right Superior Frontal Gyrus Dorsolateral,Frontal_Sup_R,R. Frontal Sup.,SFG_R,Executive Control
+Left Fusiform Gyrus,Fusiform_L,L. Fusiform,FFG_L,Visual
+Right Fusiform Gyrus,Fusiform_R,R. Fusiform,FFG_R,Visual
+Left Heschl Gyrus,Heschl_L,L. Heschl,HES_L,Sensorimotor
+Right Heschl Gyrus,Heschl_R,R. Heschl,HES_R,Sensorimotor
+Left Hippocampus,Hippocampus_L,L. Hippocampus,HIP_L,DMN
+Right Hippocampus,Hippocampus_R,R. Hippocampus,HIP_R,DMN
+Left Insula,Insula_L,L. Insula,INS_L,Salience
+Right Insula,Insula_R,R. Insula,INS_R,Salience
+Left Lingual Gyrus,Lingual_L,L. Lingual,LING_L,Visual
+Right Lingual Gyrus,Lingual_R,R. Lingual,LING_R,Visual
+Left Inferior Occipital Gyrus,Occipital_Inf_L,L. Occipital Inf.,IOG_L,Visual
+Right Inferior Occipital Gyrus,Occipital_Inf_R,R. Occipital Inf.,IOG_R,Visual
+Left Middle Occipital Gyrus,Occipital_Mid_L,L. Occipital Mid.,MOG_L,Visual
+Right Middle Occipital Gyrus,Occipital_Mid_R,R. Occipital Mid.,MOG_R,Visual
+Left Superior Occipital Gyrus,Occipital_Sup_L,L. Occipital Sup.,SOG_L,Visual
+Right Superior Occipital Gyrus,Occipital_Sup_R,R. Occipital Sup.,SOG_R,Visual
+Left Olfactory Cortex,Olfactory_L,L. Olfactory,OLF_L,Salience
+Right Olfactory Cortex,Olfactory_R,R. Olfactory,OLF_R,Salience
+Right Pallidum,Pallidum_R,R. Pallidum,PAL_R,Subcortical
+Left Parahippocampal Gyrus,ParaHippocampal_L,L. ParaHippocampal,PHG_L,DMN
+Right Parahippocampal Gyrus,ParaHippocampal_R,R. ParaHippocampal,PHG_R,DMN
+Left Paracentral Lobule,Paracentral_Lobule_L,L. Paracentral Lobule,PCL_L,Sensorimotor
+Right Paracentral Lobule,Paracentral_Lobule_R,R. Paracentral Lobule,PCL_R,Sensorimotor
+Left Inferior Parietal Gyrus Excluding Supramarginal,Parietal_Inf_L,L. Parietal Inf.,IPG_L,Executive Control
+Right Inferior Parietal Gyrus Excluding Supramarginal,Parietal_Inf_R,R. Parietal Inf.,IPG_R,Executive Control
+Left Superior Parietal Gyrus,Parietal_Sup_L,L. Parietal Sup.,SPG_L,Executive Control
+Right Superior Parietal Gyrus,Parietal_Sup_R,R. Parietal Sup.,SPG_R,Executive Control
+Left Postcentral Gyrus,Postcentral_L,L. Postcentral,PoCG_L,Sensorimotor
+Right Postcentral Gyrus,Postcentral_R,R. Postcentral,PoCG_R,Sensorimotor
+Left Precentral Gyrus,Precentral_L,L. Precentral,PreCG_L,Sensorimotor
+Right Precentral Gyrus,Precentral_R,R. Precentral,PreCG_R,Sensorimotor
+Left Precuneus,Precuneus_L,L. Precuneus,PCUN_L,DMN
+Right Precuneus,Precuneus_R,R. Precuneus,PCUN_R,DMN
+Left Lenticular Nucleus Putamen,Putamen_L,L. Putamen,PUT_L,Subcortical
+Right Lenticular Nucleus Putamen,Putamen_R,R. Putamen,PUT_R,Subcortical
+Left Gyrus Rectus,Rectus_L,L. Rectus,REC_L,Salience
+Right Gyrus Rectus,Rectus_R,R. Rectus,REC_R,Salience
+Left Rolandic Operculum,Rolandic_Oper_L,L. Rolandic (Oper),ROL_L,Sensorimotor
+Right Rolandic Operculum,Rolandic_Oper_R,R. Rolandic (Oper),ROL_R,Sensorimotor
+Left Supplementary Motor Area,Supp_Motor_Area_L,L. Supp Motor Area,SMA_L,Sensorimotor
+Right Supplementary Motor Area,Supp_Motor_Area_R,R. Supp Motor Area,SMA_R,Sensorimotor
+Left Supramarginal Gyrus,SupraMarginal_L,L. SupraMarginal,SMG_L,Sensorimotor
+Right Supramarginal Gyrus,SupraMarginal_R,R. SupraMarginal,SMG_R,Sensorimotor
+Left Inferior Temporal Gyrus,Temporal_Inf_L,L. Temporal Inf.,ITG_L,Visual
+Right Inferior Temporal Gyrus,Temporal_Inf_R,R. Temporal Inf.,ITG_R,Visual
+Left Middle Temporal Gyrus,Temporal_Mid_L,L. Temporal Mid.,MTG_L,Visual
+Right Middle Temporal Gyrus,Temporal_Mid_R,R. Temporal Mid.,MTG_R,Visual
+Left Temporal Pole Middle Temporal Gyrus,Temporal_Pole_Mid_L,L. Temporal Pole Mid.,TPOmid_L,DMN
+Right Temporal Pole Middle Temporal Gyrus,Temporal_Pole_Mid_R,R. Temporal Pole Mid.,TPOmid_R,DMN
+Left Temporal Pole Superior Temporal Gyrus,Temporal_Pole_Sup_L,L. Temporal Pole Sup.,TPOsup_L,DMN
+Right Temporal Pole Superior Temporal Gyrus,Temporal_Pole_Sup_R,R. Temporal Pole Sup.,TPOsup_R,DMN
+Left Superior Temporal Gyrus,Temporal_Sup_L,L. Temporal Sup.,STG_L,Auditory
+Right Superior Temporal Gyrus,Temporal_Sup_R,R. Temporal Sup.,STG_R,Auditory
+Left Thalamus,Thalamus_L,L. Thalamus,THA_L,Subcortical
+Right Thalamus,Thalamus_R,R. Thalamus,THA_R,Subcortical
+Lobule X Of Vermis,Vermis_10,Vermis (10),VER10,Cerebellar
+Lobule III Of Vermis,Vermis_3,Vermis (3),VER3,Cerebellar
+Lobule IV V Of Vermis,Vermis_4_5,Vermis (4 5),VER4_5,Cerebellar
+Lobule VI Of Vermis,Vermis_6,Vermis (6),VER6,Cerebellar
+Lobule VII Of Vermis,Vermis_7,Vermis (7),VER7,Cerebellar
+Lobule VIII Of Vermis,Vermis_8,Vermis (8),VER8,Cerebellar
+Lobule IX Of Vermis,Vermis_9,Vermis (9),VER9,Cerebellar
+Unknown Region,None,Unknown Region,U_R,Unknown Network
